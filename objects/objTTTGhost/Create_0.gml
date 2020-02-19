@@ -1,0 +1,1 @@
+path_start(pathTTTGhost, random_range(4,5), path_action_reverse, false);
